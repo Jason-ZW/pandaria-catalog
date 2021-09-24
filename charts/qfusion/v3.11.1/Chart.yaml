@@ -20,6 +20,7 @@ keywords:
   - Redis
   - Oracle
 sources:
+  - https://github.com/cnrancher
 engine: gotpl
 icon: file://../woqutech.png
 maintainers:
